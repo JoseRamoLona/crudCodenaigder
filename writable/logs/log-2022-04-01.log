@@ -1,0 +1,278 @@
+CRITICAL - 2022-04-01 07:52:17 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:52:23 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:57:21 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:57:22 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:57:22 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:57:23 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:57:23 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:57:24 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:58:30 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:58:30 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:58:31 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:58:31 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:58:32 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:58:32 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 07:58:37 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 08:00:01 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 08:00:02 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 08:00:02 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 08:00:03 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 08:00:03 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 08:00:03 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 08:00:03 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 08:00:03 --> Class "App\Controllers\UsuariosModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 08:53:51 --> Undefined array key "password"
+#0 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->add()
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#3 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 08:55:00 --> Undefined array key "password"
+#0 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 26)
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->add()
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#3 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 08:56:16 --> Undefined variable $dato
+#0 C:\xampp\htdocs\crud\crudfin\app\Models\UsuariosModel.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(30): App\Models\UsuariosModel->add(Array)
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->add()
+#3 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#4 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-01 09:15:27 --> syntax error, unexpected token ":", expecting "," or ";"
+#0 C:\xampp\htdocs\crud\crudfin\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\crud\crudfin\system\Common.php(1089): CodeIgniter\View\View->render('/usuarios/lista...', Array, true)
+#2 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(16): view('/usuarios/lista...', Array)
+#3 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#4 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#5 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 09:48:12 --> syntax error, unexpected variable "$validacion"
+#0 C:\xampp\htdocs\crud\crudfin\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('inicio/add')
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('inicio/add')
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 09:48:41 --> Unmatched '}'
+#0 C:\xampp\htdocs\crud\crudfin\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('inicio/add')
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('inicio/add')
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 10:13:55 --> Undefined array key "categoria"
+#0 C:\xampp\htdocs\crud\crudfin\app\Views\categorias\listadoca.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\crud\crudfin\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\crud\crudfin\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\crud\crudfin\system\Common.php(1089): CodeIgniter\View\View->render('/categorias/lis...', Array, true)
+#4 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(16): view('/categorias/lis...', Array)
+#5 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#6 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#7 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 10:15:05 --> Undefined array key "categoria"
+#0 C:\xampp\htdocs\crud\crudfin\app\Views\categorias\listadoca.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\crud\crudfin\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\crud\crudfin\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\crud\crudfin\system\Common.php(1089): CodeIgniter\View\View->render('/categorias/lis...', Array, true)
+#4 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(16): view('/categorias/lis...', Array)
+#5 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#6 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#7 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 10:15:06 --> Undefined array key "categoria"
+#0 C:\xampp\htdocs\crud\crudfin\app\Views\categorias\listadoca.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\crud\crudfin\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\crud\crudfin\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\crud\crudfin\system\Common.php(1089): CodeIgniter\View\View->render('/categorias/lis...', Array, true)
+#4 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(16): view('/categorias/lis...', Array)
+#5 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#6 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#7 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 10:21:41 --> Class "App\Controllers\CategoriasModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 10:21:43 --> Class "App\Controllers\CategoriasModel" not found
+#0 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-01 10:45:52 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->store()
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#3 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 10:50:45 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->store()
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#3 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 10:51:12 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->store()
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#3 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 11:43:04 --> Call to undefined method App\Models\CategoriasModel::getCategoria
+#0 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(14): CodeIgniter\Model->__call('getCategoria', Array)
+#1 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#2 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#3 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 11:44:40 --> Undefined array key "description"
+#0 C:\xampp\htdocs\crud\crudfin\app\Views\categorias\listadoca.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\crud\crudfin\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\crud\crudfin\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\crud\crudfin\system\Common.php(1089): CodeIgniter\View\View->render('/categorias/lis...', Array, true)
+#4 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(18): view('/categorias/lis...', Array)
+#5 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#6 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#7 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-01 11:44:41 --> Undefined array key "description"
+#0 C:\xampp\htdocs\crud\crudfin\app\Views\categorias\listadoca.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\crud\crudfin\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\crud\crudfin\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\crud\crudfin\system\Common.php(1089): CodeIgniter\View\View->render('/categorias/lis...', Array, true)
+#4 C:\xampp\htdocs\crud\crudfin\app\Controllers\Inicio.php(18): view('/categorias/lis...', Array)
+#5 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(825): App\Controllers\Inicio->index()
+#6 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Inicio))
+#7 C:\xampp\htdocs\crud\crudfin\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud\crudfin\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
